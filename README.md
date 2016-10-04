@@ -15,9 +15,8 @@ Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
 ###4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
 
-Sugestão: https://balsamiq.com/products/mockups/<br>
 
-![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/OdontoFacil.pdfg?raw=true "Title")
 
 
 ###5	MODELO CONCEITUAL<br>
