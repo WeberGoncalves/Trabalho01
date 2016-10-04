@@ -16,7 +16,7 @@ Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
 
 
-![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/OdontoFacil.pdfg?raw=true "Title")
+https://github.com/WeberGoncalves/Trabalho01/blob/master/OdontoFacil.pdf
 
 
 ###5	MODELO CONCEITUAL<br>
