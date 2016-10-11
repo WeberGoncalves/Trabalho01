@@ -1,19 +1,21 @@
-# TRABALHO 01
+# TRABALHO 01 
 Trabalho desenvolvido durante a disciplina de BD
 
 #Sumário
 
 ###1	COMPONENTES<br>
-Integrantes do grupo<br>
+Weber Gonçalves da Silva<br>
 
 ###2	INTRODUÇÃO E MOTIVAÇAO<br>
-Este documento contém a especificação do projeto do banco de dados <nome do projeto> e motivação da escolha realizada. <br>
+Este documento contém a especificação do projeto do banco de dados na área de Odontologia, tem como motivação facilitar o cadastro de cliente o agendamento dos serviços. <br>
 
 ###3	MINI-MUNDO<br>
-Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
+#Consultório Odontológico 
+Neste consultório se faz cadastro do cliente, onde se inseri o nome, CPF, endereço, CEP, município, e bairro, telefone e e-mail. É feito também o agendamento dos clientes, onde se inseri o CPF, e registra a data e horário e o dentista, depois tem uma visão dos clientes agendados onde exibe nome, CPF, data, horário e dentista. Ao realizar o serviço é descrito o que foi realizado, material utilizado, fica exibido seus valores com data e hora. Também é feito lançamento das receitas, despesas e custos materiais do tratamento. Numa outra visão é feita um gráfico com receitas, custos e despesas daquele mês. 
+ <br>
 
 ###4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
-neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
+Para interagir com banco foi criado interface com oito telas de interação. Na primeira tela apresenta a chave de entrada no sistema, na segunda temos o menu com sub entradas para cadastro, agendar, agendados, serviços, gastos e rendimentos. Na tela cadastro temos nome, CPF, endereço, CEP, município, e bairro, telefone e e-mail. Na tela de agendamento inseri o CPF, e registra a data e horário e o dentista, na tela agendados exibe nome, CPF, data, horário e dentista, já na tela serviço é descrito o que foi realizado, material utilizado, fica exibido seus valores com data e hora, na próxima tela a de gastos temos lançamento das receitas, despesas e custos materiais do tratamento, por ultimo temos tela rendimento encontra um gráfico com receitas, custos e despesas daquele mês. <br>
 
 
 https://github.com/WeberGoncalves/Trabalho01/blob/master/OdontoFacil.pdf
