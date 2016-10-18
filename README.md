@@ -28,8 +28,8 @@ https://github.com/WeberGoncalves/Trabalho01/blob/master/OdontoFacil.pdf
     5.2 NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
 ####5.1 Validação do Modelo Conceitual
-    [Grupo01]: [Nomes dos que participaram na avaliação]
-    [Grupo02]: [Nomes dos que participaram na avaliação]
+    [Grupo01]: [Mateus Lopes e Estevao Segatto]
+    [Grupo02]: [Mateus Costa e Jorge Mateus]
 
 ####5.2 DECISÕES DE PROJETO
     [atributo]: [descrição da decisão]
