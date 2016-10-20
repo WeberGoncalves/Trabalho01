@@ -34,7 +34,9 @@ https://github.com/WeberGoncalves/Trabalho01/blob/master/OdontoFacil.pdf
 
 ####5.2 DECISÕES DE PROJETO
     [atributo]: [descrição da decisão]
-    Na entidade Cliente escolhi o atributo multivalorado para endereço  para facilitar o cadastro, já em contados do cliente também  foi colocado um atributo multivalorado para cadastra os tipos de contatos com o seu código e descrição o mesmo ocorreu com a entidade funcionário.
+    Na entidade Cliente escolhi o atributo multivalorado para endereço  para facilitar o cadastro, já em contados do cliente<br>
+    também  foi colocado um atributo multivalorado para cadastra os tipos de contatos com o seu código e descrição o mesmo ocorreu<br>
+    com a entidade funcionário.
 
 ####5.3 DESCRIÇÃO DOS DADOS 
     [objeto]: [descrição do objeto]
