@@ -50,6 +50,7 @@ https://github.com/WeberGoncalves/Trabalho01/blob/master/OdontoFacil.pdf
 ###6	MODELO LÓGICO<br>
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/Modelo%20L%C3%B3gico.PNG?raw=true "Modelo Conceitual")
 ###7	MODELO FÍSICO<br>
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/Modelo%20F%C3%ADsico.sql?raw=true "Modelo Conceitual")
 ###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 ####8.1 DETALHAMENTO DAS INFORMAÇÕES
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
