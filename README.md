@@ -19,7 +19,9 @@ Para interagir com banco foi criado interface com oito telas de interação. Na 
 
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/OdontoFacil-3.pdf?raw=true "RASCUNHOS BÁSICOS DA INTERFACE")
 
-https://github.com/WeberGoncalves/Trabalho01/blob/master/OdontoFacil.pdf
+https://github.com/WeberGoncalves/Trabalho01/blob/master/OdontoFacil-1.JPG
+
+https://github.com/WeberGoncalves/Trabalho01/blob/master/OdontoFacil-2.JPG
 
 
 ###5	MODELO CONCEITUAL<br>
