@@ -18,10 +18,7 @@ Neste consultório se faz cadastro do cliente, onde se inseri o nome, CPF, ender
 Para interagir com banco foi criado interface com oito telas de interação. Na primeira tela apresenta a chave de entrada no sistema, na segunda temos o menu com sub entradas para cadastro, agendar, agendados, serviços, gastos e rendimentos. Na tela cadastro temos nome, CPF, endereço, CEP, município, e bairro, telefone e e-mail. Na tela de agendamento inseri o CPF, e registra a data e horário e o dentista, na tela agendados exibe nome, CPF, data, horário e dentista, já na tela serviço é descrito o que foi realizado, material utilizado, fica exibido seus valores com data e hora, na próxima tela a de gastos temos lançamento das receitas, despesas e custos materiais do tratamento, por ultimo temos tela rendimento encontra um gráfico com receitas, custos e despesas daquele mês. <br>
 
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/OdontoFacil-3.pdf?raw=true "RASCUNHOS BÁSICOS DA INTERFACE")
-
-https://github.com/WeberGoncalves/Trabalho01/blob/master/OdontoFacil-1.JPG
-
-https://github.com/WeberGoncalves/Trabalho01/blob/master/OdontoFacil-2.JPG
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/OdontoFacil-1.JPG?raw=true "Tela 01")
 
 
 ###5	MODELO CONCEITUAL<br>
