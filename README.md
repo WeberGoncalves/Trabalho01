@@ -26,8 +26,8 @@ Para interagir com banco foi criado interface com oito telas de interação. Na 
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/OdontoFacil-7.JPG?raw=true "Tela 07")
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/OdontoFacil-8.JPG?raw=true "Tela 08")
 
-###5	MODELO CONCEITUAL<br>
-    5.1 NOTACAO ENTIDADE RELACIONAMENTO<br>
+### 5	MODELO CONCEITUAL<br>
+###  5.1 NOTACAO ENTIDADE RELACIONAMENTO<br>
     
 ![Alt text]https://github.com/WeberGoncalves/Trabalho01/blob/master/modelo%20conceitual%20final.JPG?raw=true "Modelo Conceitual")
     
@@ -53,9 +53,12 @@ Para interagir com banco foi criado interface com oito telas de interação. Na 
 
 
 ###6	MODELO LÓGICO<br>
-![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/Modelo%20L%C3%B3gico.PNG?raw=true "Modelo Conceitual")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/modelo%20Logico.JPG?raw=true "Modelo Conceitual")
+
 ###7	MODELO FÍSICO<br>
-![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/Modelo%20F%C3%ADsico.sql?raw=true "Modelo Conceitual")
+
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/Modelo%20Fisico.png?raw=true "Modelo Conceitual")
+
 ###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 ####8.1 DETALHAMENTO DAS INFORMAÇÕES
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
