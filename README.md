@@ -62,8 +62,14 @@ Para interagir com banco foi criado interface com oito telas de interação. Na 
 
 ###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 ####8.1 DETALHAMENTO DAS INFORMAÇÕES
+     
+     
+     
+
         
-CREATE DATABASE OdontoFacil;
+####8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
+
+        CREATE DATABASE OdontoFacil;
 use OdontoFacil;
 
 CREATE TABLE Clientes(
@@ -282,7 +288,7 @@ insert into tipo_servico values
     (default,6,20,37);
 
 insert into servicos values
-	   (default,1,2,'cimento resinoso dual panavia','Núcleo de preenchimento em resina'),
+(default,1,2,'cimento resinoso dual panavia','Núcleo de preenchimento em resina'),
     (default,2,4,'filme radiografico e-speed','Faceta de resina foto'),
     (default,3,3,'silicone de adiçao scan','Restauração de amálgama 01 face'),
     (default,4,4,'luva de procedimento','Endodonticamente tratado'),
@@ -301,12 +307,7 @@ insert into servicos values
     (default,6,4,'clareador opalscence','Clareamento de dente'),
     (default,3,3,'silicone de condensação','Restauração de ionômero de vidro'),
     (default,2,7,'filme radiografico e-speed','Faceta de resina foto'),
-	   (default,5,7,'alginato jeltrate plus','Restauração de ionômero de vidro');
-        
-####8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
-        a) inclusão das instruções para criação das tabelas e estruturas de amazenamento do BD
-        b) inclusão das instruções de inserção dos dados nas referidas tabelas
-        c) inclusão das instruções para execução de outros procedimentos necessários
+	  (default,5,7,'alginato jeltrate plus','Restauração de ionômero de vidro');
 
 ###9	TABELAS E PRINCIPAIS CONSULTAS<br>
 ####9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS<br>
