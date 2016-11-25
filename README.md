@@ -30,9 +30,9 @@ Para interagir com banco foi criado interface com oito telas de interação. Na 
 
 ###  5.1 NOTACAO ENTIDADE RELACIONAMENTO<br>
     
-![Alt text]https://github.com/WeberGoncalves/Trabalho01/blob/master/modelo%20conceitual%20final.JPG?raw=true "Modelo Conceitual")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/modelo%20conceitual%20final.JPG?raw=true "Modelo Conceitual")
     
-   <br> 5.2 NOTACAO UML (Caso esteja fazendo a disciplina de analise)
+##    5.2 NOTACAO UML (Caso esteja fazendo a disciplina de analise)<br>
 
 ####5.1 Validação do Modelo Conceitual
     [Grupo01]: [Mateus Lopes e Estevao Segatto]
