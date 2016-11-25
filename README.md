@@ -62,8 +62,10 @@ Para interagir com banco foi criado interface com oito telas de interação. Na 
 
 ###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 ####8.1 DETALHAMENTO DAS INFORMAÇÕES
-     
-     
+
+Para as ideias afluisse foi necessario realizar pesquisas sobre software da area de odontologia em sites como: http://www.dentalis.com.br/ ,http://www.simplesdental.com/, https://www.xdentalcontrole.com.br/ e http://controleodonto.com.br/ .
+
+Foi tambem entrevistado uma estudante de odontologia do sesto período que ja esta esta trabalhando na area, ela explico como funciona o sistema que ela usa no seu trabalho.     
      
 
         
