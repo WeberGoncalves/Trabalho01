@@ -313,6 +313,17 @@ insert into servicos values
 
 ###9	TABELAS E PRINCIPAIS CONSULTAS<br>
 ####9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS<br>
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/Clientes.JPG?raw=true "")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/contatos_clien.JPG?raw=true "")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/Agendamento.JPG?raw=true "")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/marcado.JPG?raw=true "")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/Servi%C3%A7os.JPG?raw=true "")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/tipo_servico.JPG?raw=true "")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/funcionario_adm.JPG?raw=true "")
+![Alt text](hhttps://github.com/WeberGoncalves/Trabalho01/blob/master/tipo_pagamento.JPG?raw=true "")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/estado_agend.JPG?raw=true "")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/contatos_func.JPG?raw=true "")
+
 ####9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE<br>
 ####9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS<br>
 ####9.4	CONSULTAS QUE USAM OPERADORES LIKE<br>
