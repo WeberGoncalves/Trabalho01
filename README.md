@@ -366,7 +366,10 @@ insert into servicos values
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/consulta_%20com%20subconsultas%20%202.JPG?raw=true "")
 
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
+
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/Apresentar-OdontoFacil.odp?raw=true "")
 ###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
+Fazer sozinho.
 ###12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 
