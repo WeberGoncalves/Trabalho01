@@ -312,6 +312,7 @@ insert into servicos values
 	  (default,5,7,'alginato jeltrate plus','Restauração de ionômero de vidro');
 
 ###9	TABELAS E PRINCIPAIS CONSULTAS<br>
+
 ####9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS<br>
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/Clientes.JPG?raw=true "")
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/contatos_clien.JPG?raw=true "")
@@ -325,14 +326,45 @@ insert into servicos values
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/contatos_func.JPG?raw=true "")
 
 ####9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE<br>
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/Consulta-Agendados%20as%209h.JPG?raw=true "")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/Consulta-Clientes-Femininos.JPG?raw=true "")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/Consulta-Clientes-municipio.JPG?raw=true "")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/Consulta-os%20dentistas.JPG?raw=true "")
+
 ####9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS<br>
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/Consulta-valor-servico%20as%2012.JPG?raw=true "")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/Consulta-Agendados%20num%20periodo.JPG?raw=true "")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/Consulta-Clientes-numero%20menor100.JPG?raw=true "")
+
 ####9.4	CONSULTAS QUE USAM OPERADORES LIKE<br>
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/Consulta-cliente%20que%20tenha%20letra%20C.JPG?raw=true "")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/Consulta-clinetes%202letra%20A.JPG?raw=true "")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/Consultaclinetes%20come%C3%A7am%20com%20letra%20A%20ou%20numero%20menor%2080.JPG?raw=true "")
+
 ####9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS<br>
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/ATUALIZA%C3%87%C3%83O%20E%20EXCLUS%C3%83O%20DE%20DADOS.JPG?raw=true "")
+
 ####9.6	CONSULTAS COM JUNÇÃO<br>
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/consulta_jun%C3%A7%C3%A3o%201.JPG?raw=true "")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/consulta_jun%C3%A7%C3%A3o%202.JPG?raw=true "")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/consulta_jun%C3%A7%C3%A3o%203.JPG?raw=true "")
+
 ####9.7	CONSULTAS COM GROUP BY<br>
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/consulta-%20group%20by%201.JPG?raw=true "")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/consulta-%20group%20by%202.JPG?raw=true "")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/consulta_jun%C3%A7%C3%A3o%203.JPG?raw=true "")
+
 ####9.8	CONSULTAS COM LEFT E RIGHT JOIN<br>
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/consulta-%20LEFT%20E%20RIGHT%20JOIN%20.JPG?raw=true "")
+
 ####9.9	CONSULTAS COM SELF JOIN E VIEW<br>
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS%20-%20SELF%20JOIN.JPG?raw=true "")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS%20COM%20-JOIN%20E%20VIEW.JPG?raw=true "")
+
 ####9.10	SUBCONSULTAS<br>
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/consulta_%20com%20subconsultas.JPG?raw=true "")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/consulta_%20com%20subconsultas%20%202.JPG?raw=true "")
+
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
 ###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 ###12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
