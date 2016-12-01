@@ -369,7 +369,8 @@ insert into servicos values
 
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/Apresentar-OdontoFacil.odp?raw=true "")
 ###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
-Fazer sozinho.
+Gerar o modelo logico apartir do conceitual, e o modelo fisico apartir do logico, gera muitos erros.
+
 ###12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 
