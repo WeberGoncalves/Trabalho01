@@ -58,7 +58,7 @@ Para interagir com banco foi criado interface com oito telas de interação. Na 
 
 ###7	MODELO FÍSICO<br>
 
-
+https://github.com/WeberGoncalves/Trabalho01/blob/master/ModeloFisicoOdontoFacil.sql
 
 ###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 ####8.1 DETALHAMENTO DAS INFORMAÇÕES
