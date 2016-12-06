@@ -118,7 +118,7 @@ Foi tambem entrevistado uma estudante de odontologia do sesto período que ja es
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS_3%20QUE%20USAM%20OPERADORES%20L%C3%93GICOS%2C%20ARITM%C3%89TICOS%20E%20CAMPOS%20RENOMEADOS.JPG?raw=true "")
 
 ####9.4	CONSULTAS QUE USAM OPERADORES LIKE<br>
-![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS_1%20QUE%20USAM%20OPERADORES%20LIKE.JPG?raw=true "")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/OPERADORES%20LIKE_1.JPG?raw=true "")
 
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS_2%20QUE%20USAM%20OPERADORES%20LIKE.JPG?raw=true "")
 
