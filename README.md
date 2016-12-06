@@ -139,21 +139,29 @@ Foi tambem entrevistado uma estudante de odontologia do sesto período que ja es
 
 
 ####9.6	CONSULTAS COM JUNÇÃO<br>
-![Alt text](?raw=true "")
+![Alt text](
+https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS_1%20COM%20JUN%C3%87%C3%83O.JPG?raw=true "")
 
-![Alt text](?raw=true "")
+![Alt text](
+https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS_2%20COM%20JUN%C3%87%C3%83O.JPG?raw=true "")
 
-![Alt text](?raw=true "")
+![Alt text](
+https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS_3%20COM%20JUN%C3%87%C3%83O.JPG?raw=true "")
 
-![Alt text](?raw=true "")
+![Alt text](
+https://github.com/WeberGoncalves/Trabalho01/blob/master/JUN%C3%87%C3%83O_4.JPG?raw=true "")
 
-![Alt text](?raw=true "")
+![Alt text](
+https://github.com/WeberGoncalves/Trabalho01/blob/master/JUN%C3%87%C3%83O_5.JPG?raw=true "")
 
-![Alt text](?raw=true "")
+![Alt text](
+https://github.com/WeberGoncalves/Trabalho01/blob/master/JUN%C3%87%C3%83O_6.JPG?raw=true "")
 
-![Alt text](?raw=true "")
+![Alt text](
+https://github.com/WeberGoncalves/Trabalho01/blob/master/JUN%C3%87%C3%83O_7.JPG?raw=true "")
 
-![Alt text](?raw=true "")
+![Alt text](
+https://github.com/WeberGoncalves/Trabalho01/blob/master/JUN%C3%87%C3%83O_8.JPG?raw=true "")
 
 
 ####9.7	CONSULTAS COM GROUP BY<br>
@@ -163,17 +171,21 @@ Foi tambem entrevistado uma estudante de odontologia do sesto período que ja es
 
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS_3%20COM%20JUN%C3%87%C3%83O.JPG?raw=true "")
 
-![Alt text](?raw=true "")
+![Alt text](
+https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS_4%20COM%20GROUP%20BY.JPG?raw=true "")
 
-![Alt text](?raw=true "")
+![Alt text](
+https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS_5%20COM%20GROUP%20BY.JPG?raw=true "")
 
-![Alt text](?raw=true "")
 
-![Alt text](?raw=true "")
-
-![Alt text](?raw=true "")
 
 ####9.8	CONSULTAS COM LEFT E RIGHT JOIN<br>
+![Alt text](?raw=true "")
+
+![Alt text](?raw=true "")
+
+![Alt text](?raw=true "")
+
 ![Alt text](?raw=true "")
 
 ####9.9	CONSULTAS COM SELF JOIN E VIEW<br>
