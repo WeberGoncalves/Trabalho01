@@ -178,21 +178,42 @@ https://github.com/WeberGoncalves/Trabalho01/blob/master/JUN%C3%87%C3%83O_8.JPG?
 
 
 ####9.8	CONSULTAS COM LEFT E RIGHT JOIN<br>
-![Alt text](?raw=true "")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/LEFT%20E%20RIGHT_1a%20JOIN.JPG?raw=true "")
 
-![Alt text](?raw=true "")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/LEFT%20E%20RIGHT_1b%20JOIN.JPG?raw=true "")
 
-![Alt text](?raw=true "")
+![Alt text](
+https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS_2%20COM%20LEFT%20E%20RIGHT%20JOIN.JPG?raw=true "")
 
-![Alt text](?raw=true "")
+![Alt text](
+https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS_1%20COM%20LEFT%20E%20RIGHT%20JOIN.JPG?raw=true "")
 
 ####9.9	CONSULTAS COM SELF JOIN E VIEW<br>
-![Alt text](?raw=true "")
-![Alt text](?raw=true "")
+![Alt text](
+https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS_1%20COM%20SELF%20JOIN%20E%20VIEW.JPG?raw=true "")
+
+![Alt text](
+https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS_2%20COM%20SELF%20JOIN%20E%20VIEW.JPG?raw=true "")
+
+![Alt text](
+https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS_3%20COM%20SELF%20JOIN%20E%20VIEW.JPG?raw=true "")
+
+![Alt text](
+https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS_4%20COM%20SELF%20JOIN%20E%20VIEW.JPG?raw=true "")
+
+![Alt text](
+https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS_5%20COM%20SELF%20JOIN%20E%20VIEW.JPG?raw=true "")
+
+![Alt text](
+https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS_6%20COM%20SELF%20JOIN%20E%20VIEW.JPG?raw=true "")
+
 
 ####9.10	SUBCONSULTAS<br>
-![Alt text](?raw=true "")
-![Alt text](?raw=true "")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/SubConsultas_1.JPG?raw=true "")
+
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/SubConsultas_2.JPG?raw=true "")
+
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/SubConsultas_3.JPG?raw=true "")
 
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
 
