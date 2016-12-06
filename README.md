@@ -71,7 +71,7 @@ Foi tambem entrevistado uma estudante de odontologia do sesto período que ja es
         
 ####8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
 
-        
+ https://github.com/WeberGoncalves/Trabalho01/blob/master/ModeloFisicoOdontoFacil%20tabela%20e%20dados.sql       
 	
 ###9	TABELAS E PRINCIPAIS CONSULTAS<br>
 
