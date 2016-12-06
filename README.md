@@ -77,17 +77,29 @@ Foi tambem entrevistado uma estudante de odontologia do sesto período que ja es
 
 ####9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS<br>
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS-1%20DAS%20TABELAS%20COM%20TODOS%20OS%20DADOS%20INSERIDOS.JPG?raw=true "")
+
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS-11%20%20DAS%20TABELAS%20COM%20TODOS%20OS%20DADOS%20INSERIDOS.JPG?raw=true "")
+
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS-12%20%20DAS%20TABELAS%20COM%20TODOS%20OS%20DADOS%20INSERIDOS.JPG?raw=true "")
+
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS-13%20%20DAS%20TABELAS%20COM%20TODOS%20OS%20DADOS%20INSERIDOS.JPG?raw=true "")
+
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS-14%20%20DAS%20TABELAS%20COM%20TODOS%20OS%20DADOS%20INSERIDOS.JPG?raw=true "")
+
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS-15%20%20DAS%20TABELAS%20COM%20TODOS%20OS%20DADOS%20INSERIDOS.JPG?raw=true "")
+
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS-2%20DAS%20TABELAS%20COM%20TODOS%20OS%20DADOS%20INSERIDOS.JPG?raw=true "")
+
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS-3%20DAS%20TABELAS%20COM%20TODOS%20OS%20DADOS%20INSERIDOS.JPG?raw=true "")
+
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS-4%20DAS%20TABELAS%20COM%20TODOS%20OS%20DADOS%20INSERIDOS.JPG?raw=true "")
+
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS-5%20%20DAS%20TABELAS%20COM%20TODOS%20OS%20DADOS%20INSERIDOS.JPG?raw=true "")
+
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS-6%20%20DAS%20TABELAS%20COM%20TODOS%20OS%20DADOS%20INSERIDOS.JPG?raw=true "")
+
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS-7%20DAS%20TABELAS%20COM%20TODOS%20OS%20DADOS%20INSERIDOS.JPG?raw=true "")
+
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS-9%20%20DAS%20TABELAS%20COM%20TODOS%20OS%20DADOS%20INSERIDOS.JPG?raw=true "")
 
 ####9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE<br>
