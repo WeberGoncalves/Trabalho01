@@ -217,7 +217,8 @@ https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS_6%20COM%20SEL
 
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
 
-![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/Apresentar-OdontoFacil.odp?raw=true "")
+https://github.com/WeberGoncalves/Trabalho01/blob/master/Apresentar-OdontoFacil.odp
+
 ###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 Gerar o modelo logico apartir do conceitual, e o modelo fisico apartir do logico, gera muitos erros.
 
