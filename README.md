@@ -125,9 +125,6 @@ Foi tambem entrevistado uma estudante de odontologia do sesto período que ja es
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS_3%20QUE%20USAM%20OPERADORES%20LIKE.JPG?raw=true "")
 
 ####9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS<br>
-![Alt text](?raw=true "")
-
-####9.6	CONSULTAS COM JUNÇÃO<br>
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/ATUALIZA%C3%87%C3%83O_3%20E%20EXCLUS%C3%83O%20DE%20DADOS.JPG?raw=true "")
 
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/ATUALIZA%C3%87%C3%83O_2%20E%20EXCLUS%C3%83O%20DE%20DADOS.JPG?raw=true "")
@@ -139,6 +136,25 @@ Foi tambem entrevistado uma estudante de odontologia do sesto período que ja es
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/ATUALIZA%C3%87%C3%83O_5%20E%20EXCLUS%C3%83O%20DE%20DADOS.JPG?raw=true "")
 
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/ATUALIZA%C3%87%C3%83O_6%20E%20EXCLUS%C3%83O%20DE%20DADOS.JPG?raw=true "")
+
+
+####9.6	CONSULTAS COM JUNÇÃO<br>
+![Alt text](?raw=true "")
+
+![Alt text](?raw=true "")
+
+![Alt text](?raw=true "")
+
+![Alt text](?raw=true "")
+
+![Alt text](?raw=true "")
+
+![Alt text](?raw=true "")
+
+![Alt text](?raw=true "")
+
+![Alt text](?raw=true "")
+
 
 ####9.7	CONSULTAS COM GROUP BY<br>
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS_1%20COM%20JUN%C3%87%C3%83O.JPG?raw=true "")
