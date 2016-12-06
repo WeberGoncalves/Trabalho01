@@ -171,11 +171,9 @@ https://github.com/WeberGoncalves/Trabalho01/blob/master/JUN%C3%87%C3%83O_8.JPG?
 
 ![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS_3%20COM%20GROUP%20BY.JPG?raw=true "")
 
-![Alt text](
-https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS_4%20COM%20GROUP%20BY.JPG?raw=true "")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS_4%20COM%20GROUP%20BY.JPG?raw=true "")
 
-![Alt text](
-https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS_5%20COM%20GROUP%20BY.JPG?raw=true "")
+![Alt text](https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS_5%20COM%20GROUP%20BY.JPG?raw=true "")
 
 
 
