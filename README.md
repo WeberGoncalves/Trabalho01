@@ -219,8 +219,46 @@ https://github.com/WeberGoncalves/Trabalho01/blob/master/CONSULTAS_6%20COM%20SEL
 
 https://github.com/WeberGoncalves/Trabalho01/blob/master/Apresentar-OdontoFacil.odp
 
-###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
-Gerar o modelo logico apartir do conceitual, e o modelo fisico apartir do logico, gera muitos erros.
+###11	Trabalho de redes sociais<br>
+
+import tweepy
+import pandas
+import MySQLdb
+from sqlalchemy import create_engine
+
+parametros_conexao='mysql:/senha@weberSilva.mysql.pythonanywhere-services.com/weberSilva$odontofacil?charset=utf8'
+engine = create_engine(parametros_conexao)
+conn = engine.connect()
+tabela='Clientes'
+result = conn.execute('CREATE TABLE IF NOT EXISTS '+tabela+' (nome varchar(30),local varchar(30),assunto varchar(200));')
+
+consumer_key="BMSPRpr3TRKVAdPLqCNPl5vK2"
+consumer_secret="JHBSvrWrMgd01aATOVnh3NNL6Wej7SUMt2UUMx3xnRU89QrAJ8"
+access_token="806181793183449088-MVt5ialn7nieh5RseU3EJ1zl7xIgUbd"
+access_token_secret="3uTKwvt4QMWV2uFDykXNpyUWOupa9cvOtHFLNph638nzm"
+
+auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+auth.set_access_token(access_token, access_token_secret)
+
+api= tweepy.API(auth)
+
+pesquisar = api.search(q="odontologia")
+
+for tweet in pesquisar:
+    #print(user.screen_name)
+    #pesquisa = """insert into """+tabela+""" values('""" + str(tweet.user.screen_name) + """','""" + str(tweet.user.location) + """','""" + str(tweet.text) + """');"""
+    pesquisa = """insert into """+tabela+""" values(%s,%s,%s);"""
+    dados = (tweet.user.screen_name,tweet.user.location,tweet.text)
+    print(pesquisa,dados)
+    result = conn.execute(pesquisa,dados)
+    print(tweet.user.screen_name)
+    print(tweet.user.location)
+    print(tweet.text)
+    print("-------------------------------------------------------------------------------------------------------------------\n")
+
+result = conn.execute('select * from '+tabela+';')
+df = pandas.DataFrame(result.fetchall())
+print(df)
 
 ###12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
